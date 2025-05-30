@@ -21,7 +21,7 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## Tools used
 
-- React JS
+- React 
 - TypeScript
 - Tailwind CSS
 - Redux Toolkit
