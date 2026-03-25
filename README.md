@@ -1,7 +1,8 @@
 # ToDo-app
+
 To-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
-![page initiale](https://raw.githubusercontent.com/x1-il/todo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
+![page initiale](https://raw.githubusercontent.com/mokone-september/ToDo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
 ![add task](https://user-images.githubusercontent.com/120943267/236889340-925ea5b6-7b8e-43e3-8021-d568d7e9cdf7.png)
 Dark mode:
 ![image](https://user-images.githubusercontent.com/120943267/236889977-385bdad3-1eaf-4625-b71e-22d03e6b2731.png)
@@ -21,7 +22,7 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## Tools used
 
-- React 
+- React
 - TypeScript
 - Tailwind CSS
 - Redux Toolkit
@@ -31,23 +32,30 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## How to test
 
-You can access the project here: https://portfolio-v2-main-sooty.vercel.app/
+You can access the project here: <https://portfolio-ten-vert-28.vercel.app/>
 
 Or run on your machine:
 
 clone project
+
 ```
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/mokone-september/ToDo-app.git
 ```
+
 go to projet
+
 ```
-cd tasks-app
+cd ToDo-app
 ```
+
 install npm
+
 ```
 npm install
 ```
+
 start project
+
 ```
 npm start
 ```
@@ -56,4 +64,3 @@ npm start
 
 - Tasks, directories and darkmode data are saved in your browser's localStorage. You can click "delete all data" button to remove them from localStorage.
 - For demonstration purposes, the application has a default list of 3 tasks and 1 directory called "Main".
-
